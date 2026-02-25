@@ -1,0 +1,12 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "decimals": 6,
+  "description": "Stablecoin deployed by raheemkhan-dev for experimentation on BSC. Not affiliated with Tether issuer.",
+  "image": "https://github.com/raheemkhan-dev/tether-usd-metadata/logo.png",
+  "external_url": "https://github.com/raheemkhan-dev/tether-usd-metadata/",
+  "properties": {
+    "network": "bsc",
+    "type": "stablecoin"
+  }
+}
